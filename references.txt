@@ -1,0 +1,5 @@
+https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb
+
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+
+https://github.com/sefakilic/coursera-exdata/tree/master/course_project_1
