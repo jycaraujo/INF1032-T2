@@ -3,3 +3,13 @@ https://github.com/amirrezaeian/Individual-household-electric-power-consumption-
 https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
 
 https://github.com/sefakilic/coursera-exdata/tree/master/course_project_1
+
+https://scentellegher.github.io/programming/2017/05/24/pandas-bar-plot-with-formatted-dates.html
+
+https://stats.stackexchange.com/questions/9850/how-to-plot-data-output-of-clustering
+
+
+// esse aqui tem tutorial pra regressão logistica a partir do clustering
+https://www.dummies.com/programming/big-data/data-science/how-to-create-a-supervised-learning-model-with-logistic-regression/
+
+http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
